@@ -15,6 +15,7 @@ Connect me on:
 - 🐫[A Tiny Compiler in OCaml](https://github.com/bryawnie/tiny-compiler)
 - 📖[Research about Verifiable Delay Functions](https://github.com/clcert/vdf/wiki)
 - 👾[Funny stuff with OpenGL](https://github.com/bryawnie/Py3OpenGL)
+- 🐶[Learn Git with Dogs (Spanish)](https://bryawnie.github.io/git-doggo/) | Also linked the [Repo](https://github.com/bryawnie/git-doggo)
 - 🏛️[Data about a random chilean Politician every day](https://github.com/bryawnie/DiputadoDelDia) (WIP)
 
 <!---
