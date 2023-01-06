@@ -11,12 +11,14 @@ Connect me on:
 | 
 <a href="https://linkedin.com/in/bryortizp"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style='width: 16px;' /> LinkedIn </a>
 
-## Some Projects on GitHub
+## Personal Projects on GitHub
 - 🐫[A Tiny Compiler in OCaml](https://github.com/bryawnie/tiny-compiler)
 - 📖[Research about Verifiable Delay Functions](https://github.com/clcert/vdf/wiki)
 - 👾[Funny stuff with OpenGL](https://github.com/bryawnie/Py3OpenGL)
 - 🐶[Learn Git with Dogs (Spanish)](https://bryawnie.github.io/git-doggo/) | Also linked the [Repo](https://github.com/bryawnie/git-doggo)
-- 🏛️[Data about a random chilean Politician every day](https://github.com/bryawnie/DiputadoDelDia) (WIP)
+
+## My Collaborations
+- 🏛️[Data about some Verifiable Random Chilean Deputy - everyday](https://diputado.labs.clcert.cl/) | See the [Repo](https://github.com/clcert/beacon-politicians-app)
 
 <!---
 bryawnie/bryawnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
