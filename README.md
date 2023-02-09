@@ -61,6 +61,18 @@ Connect me on:
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      🎅🏻 Secret Santa<br/>
+      Telegram bot designed to play secret santa with friends (in Spanish).
+    </td>
+    <td>
+      <a href="https://github.com/bryawnie/SecretSantaBot">
+        Link
+      </a>
+    </td>
+    <td>—</td>
+  </tr>
 </table>
   
   
