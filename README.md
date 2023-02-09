@@ -12,14 +12,63 @@ Connect me on:
 <a href="https://linkedin.com/in/bryortizp"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style='width: 16px;' /> LinkedIn </a>
 
 ## Personal Projects on GitHub
-- 🐫[A Tiny Compiler in OCaml](https://github.com/bryawnie/tiny-compiler)
-- 📖[Research about Verifiable Delay Functions](https://github.com/clcert/vdf/wiki)
-- 👾[Funny stuff with OpenGL](https://github.com/bryawnie/Py3OpenGL)
-- 🐶[Learn Git with Dogs (Spanish)](https://bryawnie.github.io/git-doggo/) | Also linked the [Repo](https://github.com/bryawnie/git-doggo)
+<table>
+  <tr>
+    <th>Project Description</th>
+    <th>Repo</th>
+    <th>Website</th>
+  </tr>
+  <tr>
+    <td>🐫 A Tiny Compiler in OCaml</td>
+    <td>
+      <a href="https://github.com/bryawnie/tiny-compiler">
+        Link
+      </a>
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>📖 Research about Verifiable Delay Functions</td>
+    <td>
+      <a href="https://github.com/clcert/vdf/wiki">
+        Link
+      </a>
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>👾 Funny stuff with OpenGL</td>
+    <td>
+      <a href="https://github.com/bryawnie/Py3OpenGL">
+        Link
+      </a>
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      🐶 GitDoggo<br/>
+      Git graphic commands with Dogs (in Spanish)
+    </td>
+    <td>
+      <a href="https://github.com/bryawnie/git-doggo">
+        Link
+      </a>
+    </td>
+    <td>
+      <a href="https://bryawnie.github.io/git-doggo/">
+        Link
+      </a>
+    </td>
+  </tr>
+</table>
+  
+  
 
 ## My Collaborations
-- 🏛️[Data about some Verifiable Random Chilean Deputy - everyday](https://diputado.labs.clcert.cl/) | See the [Repo](https://github.com/clcert/beacon-politicians-app)
-
+- 🏛️ **Diputadx del Día** ([Website](https://diputado.labs.clcert.cl/) | [Repo](https://github.com/clcert/beacon-politicians-app))
+  
+  This app uses the Random UChile's *randomness beacon* to choose a random deputy everyday and show interesting data about them.
 <!---
 bryawnie/bryawnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
