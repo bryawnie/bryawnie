@@ -1,7 +1,7 @@
 # 👋 Hi Everyone
 <img src="https://miro.medium.com/max/625/1*C-zXmTMHObZWyZBUbdruGg.jpeg" style='width: 200px;' />
 
-I'm Bryan (not exactly as in the picture). I like dogs, cookies, dinosaurs and cryptography (trust me, there must be some relationship among those topics).
+I'm Bryan (not exactly as in the picture). I like dogs, cookies, dinosaurs and cryptography (trust me, there must be some relation among those topics).
 Currently, I'm studying computer science at the University of Chile and developing cool stuff for [Random UChile](https://random.uchile.cl/).
 
 ## Social Media
