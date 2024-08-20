@@ -2,7 +2,7 @@
 <img src="https://miro.medium.com/max/625/1*C-zXmTMHObZWyZBUbdruGg.jpeg" style='width: 200px;' />
 
 I'm Bryan (not exactly as in the picture). I like dogs, cookies, dinosaurs and cryptography (there must be some relation among these topics).
-Currently, I'm studying computer science at Universidad de Chile and developing cool stuff for [Random UChile](https://random.uchile.cl/).
+Currently, I'm studying computer science at Universidad de Chile.
 
 ## Social Media
 Connect me on:
